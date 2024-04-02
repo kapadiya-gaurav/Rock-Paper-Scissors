@@ -15,7 +15,7 @@ You can play against the computer and computer randomly selects its move for add
 
 
 ## Screenshot
-![Rock-Paper-Scissors](./images/screencapture.png {height=100px})
+![Rock-Paper-Scissors](./images/screencapture.png)
 
 
 ## Deployment
